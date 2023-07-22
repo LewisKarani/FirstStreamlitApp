@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib.pyplot
+pandas.express
+streamlit
+streamlit_options_menu
