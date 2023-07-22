@@ -1,6 +1,6 @@
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 pandas.express
 streamlit
 streamlit_options_menu
