@@ -5,4 +5,3 @@ matplotlib
 pandas.express
 streamlit
 streamlit-option-menu
-option-menu
