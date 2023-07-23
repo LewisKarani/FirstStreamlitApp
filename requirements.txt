@@ -3,4 +3,5 @@ numpy
 matplotlib
 pandas.express
 streamlit
+option_menu
 
