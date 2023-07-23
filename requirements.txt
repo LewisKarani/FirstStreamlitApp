@@ -4,5 +4,5 @@ numpy
 matplotlib
 pandas.express
 streamlit
-streamlit_option_menu
-option_menu
+streamlit-option-menu
+option-menu
