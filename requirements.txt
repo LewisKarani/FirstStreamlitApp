@@ -1,5 +1,8 @@
+
 pandas
 numpy
 matplotlib
 pandas.express
 streamlit
+streamlit_option_menu
+option_menu
