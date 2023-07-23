@@ -9,7 +9,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 @st.cache_data
 def load_data():
     
-    data = pd.read_csv(all_data_cleaned.csv)
+    data = pd.read_csv('all_data_cleaned.csv')
     data.groupby('Month').sum()
     data.groupby(['City']).sum()
     data.groupby(['Hour'])
