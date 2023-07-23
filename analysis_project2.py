@@ -8,7 +8,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 @st.cache_data
 def load_data():
-    file_path = r'C:/Users/HP/Data Science/Pandas/all_data_cleaned.csv'
+    file_path = r'C:\Users\HP\Data Science\Pandas/all_data_cleaned.csv'
     data = pd.read_csv(file_path)
     data.groupby('Month').sum()
     data.groupby(['City']).sum()
