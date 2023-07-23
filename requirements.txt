@@ -2,6 +2,6 @@
 pandas
 numpy
 matplotlib
-pandas.express
+plotly.express
 streamlit
 streamlit-option-menu
